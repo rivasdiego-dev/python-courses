@@ -11,4 +11,3 @@ replit.nix
 
 # File preventing from automatically getting the latest versions of dependencies
 poetry.lock
-
