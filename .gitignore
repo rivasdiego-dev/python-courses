@@ -1,0 +1,14 @@
+# Py environment
+venv/
+
+# Replit conf files
+.replit
+pyproject.toml
+replit.nix
+
+# Breakpoints file for debbugging
+.breakpoints
+
+# File preventing from automatically getting the latest versions of dependencies
+poetry.lock
+
