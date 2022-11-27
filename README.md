@@ -16,7 +16,6 @@ The courses were created by Dr. Charles Severance (also known as Dr. Chuck). He 
 > NOTE: All info extracted form [freeCodeCamp.org](https://www.freecodecamp.org/ "freeCodeCamp Official Website") and [Python For Everybody](https://books.trinket.io/pfe/)
 
 ### Conditionals
-#### Catching exceptions using try and except
 - Exercise 1: Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.
 
 - Exercise 2: Rewrite your pay program using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.
@@ -29,3 +28,9 @@ The courses were created by Dr. Charles Severance (also known as Dr. Chuck). He 
   |>= 0.7|C|
   |>= 0.6|D|
   |< 0.6|F|
+
+### Functions
+- Exercise 6: Rewrite your pay computation with time-and-a-half for overtime and create a function called computepay which takes two parameters (hours and rate)
+
+- Exercise 7: Rewrite the grade program from the previous chapter using a function called computegrade that takes a score as its parameter and returns a grade as a string
+
